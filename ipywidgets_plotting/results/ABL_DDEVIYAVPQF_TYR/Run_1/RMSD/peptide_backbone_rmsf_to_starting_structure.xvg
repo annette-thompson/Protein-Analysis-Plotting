@@ -1,0 +1,61 @@
+# This file was created Thu May 28 14:16:25 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.2 (-:
+# 
+# Executable:   /curc/sw/install/gromacs/2024.2/openmpi/4.1.1/gcc/11.2.0/bin/gmx
+# Data prefix:  /curc/sw/install/gromacs/2024.2/openmpi/4.1.1/gcc/11.2.0
+# Working dir:  /gpfs/alpine1/scratch/anth4580/NewPTKs/Simulations/ABL_DDEVIYAVPQF_TYR/Run_1
+# Command line:
+#   gmx rmsf -s /scratch/alpine/anth4580/NewPTKs/Simulations/ABL_DDEVIYAVPQF_TYR/Run_1/Trajectories/md_ref.pdb -f /scratch/alpine/anth4580/NewPTKs/Simulations/ABL_DDEVIYAVPQF_TYR/Run_1/Trajectories/md_aligned_peptide_backbone_starting.xtc -o /scratch/alpine/anth4580/NewPTKs/Simulations/ABL_DDEVIYAVPQF_TYR/Run_1/RMSD/peptide_backbone_rmsf_to_starting_structure.xvg -n /scratch/alpine/anth4580/NewPTKs/Simulations/ABL_DDEVIYAVPQF_TYR/Run_1/Trajectories/index.ndx -quiet
+# gmx rmsf is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Atom"
+@    yaxis  label "(nm)"
+@TYPE xy
+ 4060   0.2709
+ 4061   0.2016
+ 4062   0.1703
+ 4063   0.2093
+ 4074   0.1517
+ 4075   0.1489
+ 4076   0.0818
+ 4077   0.0787
+ 4086   0.1230
+ 4087   0.1528
+ 4088   0.1326
+ 4089   0.1861
+ 4101   0.1164
+ 4102   0.1584
+ 4103   0.1341
+ 4104   0.1463
+ 4117   0.1351
+ 4118   0.1311
+ 4119   0.1115
+ 4120   0.1114
+ 4136   0.1139
+ 4137   0.1154
+ 4138   0.1129
+ 4139   0.1428
+ 4157   0.0938
+ 4158   0.1009
+ 4159   0.0972
+ 4160   0.0928
+ 4167   0.1196
+ 4168   0.1222
+ 4169   0.0917
+ 4170   0.0986
+ 4183   0.0915
+ 4184   0.0978
+ 4185   0.1136
+ 4186   0.1872
+ 4197   0.1017
+ 4198   0.1177
+ 4199   0.1160
+ 4200   0.1833
+ 4214   0.1422
+ 4215   0.2270
+ 4216   0.2580
+ 4217   0.2897

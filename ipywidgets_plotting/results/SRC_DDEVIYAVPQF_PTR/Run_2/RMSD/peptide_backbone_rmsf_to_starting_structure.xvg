@@ -1,0 +1,61 @@
+# This file was created Thu May 28 14:21:38 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.2 (-:
+# 
+# Executable:   /curc/sw/install/gromacs/2024.2/openmpi/4.1.1/gcc/11.2.0/bin/gmx
+# Data prefix:  /curc/sw/install/gromacs/2024.2/openmpi/4.1.1/gcc/11.2.0
+# Working dir:  /gpfs/alpine1/scratch/anth4580/NewPTKs/Simulations/SRC_DDEVIYAVPQF_PTR/Run_2
+# Command line:
+#   gmx rmsf -s /scratch/alpine/anth4580/NewPTKs/Simulations/SRC_DDEVIYAVPQF_PTR/Run_2/Trajectories/md_ref.pdb -f /scratch/alpine/anth4580/NewPTKs/Simulations/SRC_DDEVIYAVPQF_PTR/Run_2/Trajectories/md_aligned_peptide_backbone_starting.xtc -o /scratch/alpine/anth4580/NewPTKs/Simulations/SRC_DDEVIYAVPQF_PTR/Run_2/RMSD/peptide_backbone_rmsf_to_starting_structure.xvg -n /scratch/alpine/anth4580/NewPTKs/Simulations/SRC_DDEVIYAVPQF_PTR/Run_2/Trajectories/index.ndx -quiet
+# gmx rmsf is part of G R O M A C S:
+#
+# GROningen Mixture of Alchemy and Childrens' Stories
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Atom"
+@    yaxis  label "(nm)"
+@TYPE xy
+ 4095   0.2162
+ 4099   0.1678
+ 4101   0.1196
+ 4102   0.1293
+ 4109   0.1142
+ 4111   0.1221
+ 4113   0.1081
+ 4114   0.1415
+ 4121   0.0958
+ 4123   0.1113
+ 4125   0.0939
+ 4126   0.1400
+ 4136   0.0695
+ 4138   0.0927
+ 4140   0.0947
+ 4141   0.1393
+ 4152   0.0915
+ 4154   0.1215
+ 4156   0.1033
+ 4157   0.1236
+ 4171   0.0853
+ 4173   0.0888
+ 4175   0.0718
+ 4176   0.0993
+ 4192   0.0622
+ 4194   0.0749
+ 4196   0.0718
+ 4197   0.0820
+ 4202   0.1065
+ 4204   0.1179
+ 4206   0.0706
+ 4207   0.0817
+ 4218   0.0779
+ 4219   0.0775
+ 4221   0.0559
+ 4222   0.0691
+ 4232   0.0899
+ 4234   0.1059
+ 4236   0.0849
+ 4237   0.1472
+ 4249   0.1104
+ 4251   0.1496
+ 4253   0.1669
+ 4254   0.2114
