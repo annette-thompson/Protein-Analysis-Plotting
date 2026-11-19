@@ -1,0 +1,16 @@
+name: viztutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - mdanalysis>=2.8
+  - scikit-learn
+  - scipy
+  - numpy
+  - plotly>=6
+  - anywidget
+  - ipywidgets>=8
+  - nglview>=3.1
+  - jupyterlab>=4
+  - requests
+  - matplotlib

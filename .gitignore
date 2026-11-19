@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+.*.xtc_offsets.*
+Linked_Plots_Tutorial/data/md_full_1000frames.xtc
