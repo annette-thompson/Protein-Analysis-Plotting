@@ -14,3 +14,5 @@ dependencies:
   - jupyterlab>=4
   - requests
   - matplotlib
+  - pillow
+  - python-kaleido>=1
